@@ -1,0 +1,22 @@
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Notatnik\Notatnik\bin\Release\Notatnik.exe.config
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Notatnik\Notatnik\bin\Release\Notatnik.exe
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Notatnik\Notatnik\bin\Release\Notatnik.pdb
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Notatnik\Notatnik\obj\Release\Notatnik.csprojAssemblyReference.cache
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Notatnik\Notatnik\obj\Release\Notatnik.Properties.Resources.resources
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Notatnik\Notatnik\obj\Release\Notatnik.csproj.GenerateResource.cache
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Notatnik\Notatnik\obj\Release\Notatnik.csproj.CoreCompileInputs.cache
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Notatnik\Notatnik\obj\Release\Notatnik.exe
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Notatnik\Notatnik\obj\Release\Notatnik.pdb
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Notatnik\Notatnik\bin\Release\Pomoc.pdf
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Notatnik\Notatnik\obj\Release\Notatnik.Notatnik.resources
+C:\CODE\C#\WinForms\Notatnik\Notatnik\bin\Release\Pomoc.pdf
+C:\CODE\C#\WinForms\Notatnik\Notatnik\bin\Release\Notatnik.exe.config
+C:\CODE\C#\WinForms\Notatnik\Notatnik\bin\Release\Notatnik.exe
+C:\CODE\C#\WinForms\Notatnik\Notatnik\bin\Release\Notatnik.pdb
+C:\CODE\C#\WinForms\Notatnik\Notatnik\obj\Release\Notatnik.csprojAssemblyReference.cache
+C:\CODE\C#\WinForms\Notatnik\Notatnik\obj\Release\Notatnik.Notatnik.resources
+C:\CODE\C#\WinForms\Notatnik\Notatnik\obj\Release\Notatnik.Properties.Resources.resources
+C:\CODE\C#\WinForms\Notatnik\Notatnik\obj\Release\Notatnik.csproj.GenerateResource.cache
+C:\CODE\C#\WinForms\Notatnik\Notatnik\obj\Release\Notatnik.csproj.CoreCompileInputs.cache
+C:\CODE\C#\WinForms\Notatnik\Notatnik\obj\Release\Notatnik.exe
+C:\CODE\C#\WinForms\Notatnik\Notatnik\obj\Release\Notatnik.pdb

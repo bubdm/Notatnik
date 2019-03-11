@@ -1,0 +1,10 @@
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Notatnik\Notatnik\bin\Debug\Notatnik.exe.config
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Notatnik\Notatnik\bin\Debug\Notatnik.exe
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Notatnik\Notatnik\bin\Debug\Notatnik.pdb
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Notatnik\Notatnik\obj\Debug\Notatnik.csprojAssemblyReference.cache
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Notatnik\Notatnik\obj\Debug\Notatnik.Form1.resources
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Notatnik\Notatnik\obj\Debug\Notatnik.Properties.Resources.resources
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.GenerateResource.cache
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.CoreCompileInputs.cache
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Notatnik\Notatnik\obj\Debug\Notatnik.exe
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Notatnik\Notatnik\obj\Debug\Notatnik.pdb
